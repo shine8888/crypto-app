@@ -12,7 +12,7 @@ Right now, it will have these main features:
   6. Your Investment: Display all tokens that you invested: current balances. You can also filter the token you want.
   7. Login and Logout
 
-Because I am kind of busy with my projects in current company, so I quickly setup project with Backend(Typescript) and Frontend(ReactJs).
+Because I am kind of busy with projects in current company, so I just have a quick setup project with Backend(Typescript) and Frontend(ReactJs).
 
 For more details about how it works, you can check in the front-end and back-end README files. 
 

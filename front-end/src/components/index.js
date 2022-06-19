@@ -1,0 +1,9 @@
+export { default as Navbar } from './NavBar/Navbar';
+export { default as CryptoCurrencies } from './CryptoCurrencies/CryptoCurrencies';
+export { default as CryptoDetails } from './CryptoDetails/CryptoDetails';
+export { default as Exchanges } from './Exchanges/Exchanges';
+export { default as HomePage } from './HomePage/HomePage';
+export { default as News } from './News/News';
+export { default as Login } from './Login/Login';
+export { default as Trading } from './Trading/Trading';
+export { default as Investment } from './Investment/Investment';

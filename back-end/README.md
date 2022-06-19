@@ -6,7 +6,7 @@
 
 1. Clone the repository
    ```sh
-   git clone git@github.com:shine8888/crypto_news.git
+   git clone git@github.com:shine8888/crypto-app.git
    ```
 2. Go to your console and select your project directory.
 3. Go to back-end folder
